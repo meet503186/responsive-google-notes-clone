@@ -1,0 +1,20 @@
+{
+  "short_name": "Meet Notes",
+  "name": "Meet Notes: take notes",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "icons/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "icons/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "http://127.0.0.1:5500/Projects/keep%20notes/index.html",
+  "background_color": "transparent",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+} 
