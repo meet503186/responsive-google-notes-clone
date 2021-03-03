@@ -40,6 +40,8 @@ body{
     padding: 0.5rem 1rem;
     cursor: pointer;
     background: #f1c12e;
+    z-index: 1000;
+    box-shadow: 0 10px 13px -6px rgb(0,0,0,0.4);
 }
 button{
     position: relative;
